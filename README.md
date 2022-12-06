@@ -20,6 +20,6 @@
 
 
 ### berikut ketika user  mengambil data, tapi harus memasukan tokennya terlebih dahulu : 
-![](src/main/java/id/co/geetoor/demoauth/img/post.png)
+![](src/main/java/id/co/geetoor/demoauth/img/get.png)
 
 ### by : geetoor maven (Agus Kurniawan anak JDT)
